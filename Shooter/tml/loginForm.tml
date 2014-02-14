@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>login</title>
+</head>
+
+<body>
+    <form id="formLogin" method="post" action="">
+        <label>
+            Login:
+            <input type="text" name="login">
+        </label>
+        <label>
+            Password:
+            <input type="password" name="password">
+        </label>
+        <input type="button" class="submit" value="Send"/>
+    </form>
+    <p>your session=${sessionId}</p>
+    <p id="answer">Your name:</p>
+</body>
+<script src="../jquery.js"></script>
+<script src="../js/ajax.js"></script>
+</html>
+

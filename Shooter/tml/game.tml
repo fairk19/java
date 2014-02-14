@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style type="text/css" media="screen">
+        body {
+            background: black;
+            text-align: center;
+            color: #DDD;
+            font-family: Arial;
+        }
+
+        .controls {
+            color: #BBB;
+        }
+
+        #cr-stage { margin: 20px auto 0; }
+
+        .bottom {
+            font-size: 12px;
+            color: #888;
+            margin-top: 50px;
+        }
+
+        .bottom a {
+            color: #AAA;
+        }
+    </style>
+</head>
+<body>
+<h2>Crafty's Adventure</h2>
+
+<p>Help Crafty visit her friends in each village.</p>
+
+<p class="controls">Controls: Use W, A, S, and D or arrow keys to move around.</p>
+
+<div id="userId" style="display: none">${userId}</div>
+<button id="startGame">Старт</button>
+
+<script src="js/crafty.js"></script>
+<script src="js/game.js"></script>
+<script src="js/components.js"></script>
+<script src="js/scenes.js"></script>
+
+</body>
+</html>

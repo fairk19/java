@@ -1,0 +1,30 @@
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler startElement
+INFO: Class name: accountService.MakeConnection
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: hostName = localhost
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: port = 3306
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: dbName = javagamedb
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: login = root
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: password = qwert
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler startElement
+INFO: Class name: gameMechanics.GameMap
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: height = 24
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: width = 48
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: tileHeight = 16
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: tileWidth = 16
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler startElement
+INFO: Class name: gameMechanics.UserGameSession
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: maxRange = 3
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: speedSprite = 1
+фев 12, 2014 11:13:26 PM resourceSystem.sax.SaxHandler characters
+INFO: lifeSprite = 100

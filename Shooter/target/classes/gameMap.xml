@@ -1,0 +1,6 @@
+<class type="gameMechanics.GameMap">
+    <height>24</height>
+    <width>48</width>
+    <tileHeight>16</tileHeight>
+    <tileWidth>16</tileWidth>
+</class>

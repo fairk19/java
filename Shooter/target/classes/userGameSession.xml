@@ -1,0 +1,5 @@
+<class type="gameMechanics.UserGameSession">
+    <maxRange>3</maxRange>
+    <speedSprite>1</speedSprite>
+    <lifeSprite>100</lifeSprite>
+</class>

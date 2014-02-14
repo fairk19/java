@@ -1,0 +1,8 @@
+фев 12, 2014 11:13:26 PM frontend.FrontendImpl <init>
+INFO: Frontend created
+фев 12, 2014 11:13:29 PM frontend.FrontendImpl doGet
+INFO: doGet (GET /favicon.ico)@892136402 org.eclipse.jetty.server.Request@352cebd2
+фев 12, 2014 11:13:30 PM frontend.FrontendImpl doGet
+INFO: doGet (GET /home)@892136402 org.eclipse.jetty.server.Request@352cebd2
+фев 12, 2014 11:13:31 PM frontend.FrontendImpl doGet
+INFO: doGet (GET /favicon.ico)@1994727197 org.eclipse.jetty.server.Request@76e51f1d

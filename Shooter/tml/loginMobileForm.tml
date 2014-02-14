@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Вход</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <form id="formLogin" method="post" action="/mobile">
+        <p>Ваш уникальный код:<div id="userToken">${userToken}</div></p>
+        <label>
+            <input type="password" name="userToken">
+        </label>
+        <input type="submit" value="Войти"/>
+    </form>
+
+</body>
+<script src="../jquery.js"></script>
+<script type="text/javascript" src="/js/validate.js"></script>
+</html>

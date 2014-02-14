@@ -1,0 +1,72 @@
+/*#formParent {*/
+    /*display:none;*/
+/*}*/
+.displayNone {
+    display: none;
+}
+.mainPageContent {
+    width: 450px;
+    margin: 50px auto;
+}
+#formParent {
+    background:  rgba(128,128,128, 0.5);
+    /*opacity: 0.95;*/
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+#regFormParent {
+    background:  rgba(128,128,128, 0.5);
+    /*opacity: 0.95;*/
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+}
+.loginForm {
+    background: #ffffff;
+    opacity: 1.0;
+    width: 400px;
+    height: auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    /*z-index: 100;*/
+}
+.loginForm .close_button {
+    float: right;
+    position: static;
+}
+/*.loginForm .input_form {*/
+    /*margin-left: 15px;*/
+/*}*/
+
+.loginForm .content {
+    padding: 10px;
+}
+.loginForm .form_footer {
+    padding: 0px 10px 10px 10px;
+}
+.content .input_form {
+   width: 350px;
+}
+/*.content .errorImg {*/
+    /*width: 15px;*/
+    /*height: 15px;*/
+    /**/
+/*}*/
+/*.content h1 {*/
+    /*padding: ;*/
+/*}*/
+.error:after {
+    content: "*";
+    color: red;
+}

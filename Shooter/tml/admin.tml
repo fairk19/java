@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Admin page</title>
+</head>
+<body>
+<p>Server administration page</p>
+<p>Server status: ${status}</p>
+</body>
+</html>

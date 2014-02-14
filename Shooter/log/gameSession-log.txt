@@ -1,0 +1,8 @@
+фев 10, 2014 6:58:33 PM gameMechanics.GameSession <init>
+INFO: Game session created
+фев 10, 2014 6:58:33 PM gameMechanics.GameSession <init>
+INFO: Game map created
+фев 10, 2014 6:58:35 PM gameMechanics.GameSession addUserInGame
+INFO: User 4 add in game session
+фев 10, 2014 6:58:54 PM gameMechanics.GameSession addUserInGame
+INFO: User 5 add in game session

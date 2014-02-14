@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>registration</title>
+</head>
+<body>
+<form id="formReg">
+    <label>
+        name: <input type="text" name="login">
+    </label>
+    <label>
+        password: <input type="password" name="password">
+    </label>
+    <input type="button" value="Send" class="submit">
+</form>
+<p id="answer"> </p>
+<p>your session=${sessionId}</p>
+</body>
+
+
+<script src="../jquery.js"></script>
+<script src="../js/ajax.js"></script>
+</html>
+
+
+

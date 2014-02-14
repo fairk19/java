@@ -1,0 +1,7 @@
+<class type="accountService.MakeConnection">
+    <hostName>localhost</hostName>
+    <port>3306</port>
+    <dbName>javagamedb</dbName>
+    <login>root</login>
+    <password>qwert</password>
+</class>
